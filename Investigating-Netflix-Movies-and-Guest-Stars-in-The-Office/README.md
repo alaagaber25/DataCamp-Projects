@@ -1,5 +1,5 @@
 ## 1. Investigating Netflix Movies and Guest Stars in The Office
-### 📺 [Guided Projects]()
+### 📺 [Guided Project](https://github.com/alaagaber25/DataCamp-Projects/blob/main/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/Guided/notebook.ipynb)
 #### Project tasks
 1. Loading a friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
@@ -12,7 +12,7 @@
 9. Plotting with color!
 10. What next?
     
-### 🧰 [UnGuided Projects]()
+### 🧰 [UnGuided Project](https://github.com/alaagaber25/DataCamp-Projects/blob/main/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office/UnGuided/notebook.ipynb)
 #### Project task
 1. Create a matplotlib scatter plot of the data that contains the following attributes:
 - Each episode's episode number plotted along the x-axis
